@@ -1,0 +1,12 @@
+html {
+    font-size: 16px; /* htmlにfont-sizeを指定することによってremが機能するようになる */
+}
+
+body {
+    padding-top: 5rem; /* Bootstrapでpadding指定はできるが大きなpaddingを指定するのはできないので、CSSで調整する */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+}
